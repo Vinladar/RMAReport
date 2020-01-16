@@ -1,0 +1,25 @@
+code,reason
+ASS,ASSEMBLY ERROR
+COS,COSMETIC
+DEF,Defective
+ELE,ELECTRICAL
+ENG,Engineering Error
+INC,Incomplete
+MEC,Mechanical
+OE,ORDER ENTRY ERROR
+PRO,Order Processing Error
+PAC,Packing Error
+PRD,Production Dept Error
+QUO,Quotations Error
+QC,QC Error
+REP,Rep Error
+SHIP,PICKING ERROR
+SHIP,SHIPPING ERROR
+SPEC,Specification Error
+VEND,Vendor Error
+CNN,CHANGES - NOT NEEDED
+CRO,CHANGES -  REORDERED
+SRT,Sample Return
+VOID,VOIDING
+DIT,Damaged In Transit
+OTHER,OTHER
